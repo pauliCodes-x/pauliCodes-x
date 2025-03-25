@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Pau! <br><br>
-🌱 I’m a Software Development student.<br><br>🔭 I’m currently working on my own personal page, kinda like a blog.<br>  <br>🌷 I’m currently learning React by myself.<br><br> 👾 Getting into Pixel Art and digital design.<br> <br>⚡In my free time, I’m learning how to play bass, I enjoy exploring new hobbies like drawing and ceramics.<br>
+🌱 I’m a Software Development student.<br><br>🔭 I’m currently working on my own personal page, kinda like a blog.<br>  <br>🌷 I’m currently learning React by myself.<br><br> 👾 Getting into Pixel Art and digital design.<br> <br>⚡In my free time, I'm learning to play the bass and enjoy exploring new hobbies like drawing and ceramics.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-asato) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauli.codes@gmail.com) 
